@@ -7,12 +7,25 @@ export const CountdownContainer = styled.div`
   color: ${(props) => props.theme['gray-100']};
 
   display: flex;
+
   gap: 1rem;
 
   span {
     background: ${(props) => props.theme['gray-700']};
     padding: 2rem 1rem;
     border-radius: 8px;
+  }
+
+  @media (max-width: 768px) {
+    font-size: 5rem;
+    text-align: center;
+    line-height: 1rem;
+  }
+  @media (max-width: 468px) {
+    font-size: 3rem;
+    text-align: center;
+    flex-direction: column;
+    line-height: 0;
   }
 `
 export const Separator = styled.div`
