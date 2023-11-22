@@ -7,7 +7,7 @@
   <a href="#-Technologies">Technologies🚀</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-Project">Project🧑‍💻</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
     <a href="#-How-to-Run">How to Run 🏃</a>&nbsp;&nbsp;&nbsp;
-     <a href="#-Figma">Figma 🖌️</a>&nbsp;&nbsp;&nbsp;
+     <a href="#-Figma">Figma🖌️</a>&nbsp;&nbsp;&nbsp;
 </p>
 
 
@@ -25,7 +25,7 @@ This project was developed with:
 - React(vite)
 
 
-## Figma 🖌️
+## 🖌️ Figma 
 Here's the Figma of the project [Figma](https://www.figma.com/community/file/1127351821076435124/ignite-timer)
 
 
