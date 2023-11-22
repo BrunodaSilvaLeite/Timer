@@ -7,10 +7,13 @@
   <a href="#-Technologies">Technologies🚀</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-Project">Project🧑‍💻</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
     <a href="#-How-to-Run">How to Run 🏃</a>&nbsp;&nbsp;&nbsp;
+     <a href="#-Figma">Figma 🖌️</a>&nbsp;&nbsp;&nbsp;
 </p>
 
 
-![ToDoImg](https://github.com/BrunodaSilvaLeite/ToDoList-Ts/assets/72769991/3d1e7ace-1bd3-40d1-acff-58c4a40d96db)
+![Timer2](https://github.com/BrunodaSilvaLeite/Ignite-front-Timer/assets/72769991/42df8e3d-90cd-40ef-9bef-82849f99c32f)
+
+![Timer1](https://github.com/BrunodaSilvaLeite/Ignite-front-Timer/assets/72769991/9750578f-acfe-420d-9787-6cdb97795a09)
 
 
 ## 🚀 Technologies
@@ -20,6 +23,9 @@ This project was developed with:
 - Typescript
 - NodeJs
 - React(vite)
+
+##Figma 🖌️
+Here's the Figma of the project [Figma](https://www.figma.com/community/file/1127351821076435124/ignite-timer)
 
 ## ⏱️ Project
 
