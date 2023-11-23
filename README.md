@@ -11,9 +11,9 @@
 </p>
 
 
-![Timer2](https://github.com/BrunodaSilvaLeite/Ignite-front-Timer/assets/72769991/42df8e3d-90cd-40ef-9bef-82849f99c32f)
+![TimerImg1](https://github.com/BrunodaSilvaLeite/Timer/assets/72769991/1eb0f86f-5e7f-44cf-ac1a-eedde32420cb)
 
-![Timer1](https://github.com/BrunodaSilvaLeite/Ignite-front-Timer/assets/72769991/9750578f-acfe-420d-9787-6cdb97795a09)
+![TimerImg2](https://github.com/BrunodaSilvaLeite/Timer/assets/72769991/5005e0a1-dafe-491f-bba7-c45efcb91ea2)
 
 
 ## 🚀 Technologies
