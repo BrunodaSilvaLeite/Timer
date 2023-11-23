@@ -6,8 +6,8 @@ import { Index } from './layouts/DefaultLayout/Index'
 export function Router() {
   return (
     <Routes>
-      <Route path="/" element={<Index />}>
-        <Route path="/" element={<Home />} />
+      <Route path="/Timer" element={<Index />}>
+        <Route path="/Timer" element={<Home />} />
         <Route path="history" element={<History />} />
       </Route>
     </Routes>
