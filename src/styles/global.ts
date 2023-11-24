@@ -26,4 +26,31 @@ body, input, textarea, button {
    
 } 
 
+.gitHubLink {
+  position: absolute;
+  top: 0;
+  padding: 2rem;
+  left: 0;
+
+}
+.gitHubLink a {
+ color: var(--gray-100);
+ text-decoration: none;   
+ display: flex;
+ align-items: center;
+ gap: 0.5rem;
+}
+.gitHubLink span {
+ display: flex;
+ justify-content: center;
+ align-items: center;
+ background-color: #29292E;
+ border-radius: 50%;
+ padding: 0.5rem;
+ }
+ 
+ .gitHubLink a:hover {
+  color: #00875F;
+  fill: white;
+ }
 `
