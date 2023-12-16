@@ -10,6 +10,7 @@
      <a href="#-Figma">Figma🖌️</a>&nbsp;&nbsp;&nbsp;
 </p>
 
+</br>
 
 ![TimerImg1](https://github.com/BrunodaSilvaLeite/Timer/assets/72769991/1eb0f86f-5e7f-44cf-ac1a-eedde32420cb)
 
